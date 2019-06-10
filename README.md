@@ -1,6 +1,6 @@
 # Evonik
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2 and Kendo UI https://www.telerik.com/kendo-ui
 
 ## Development server
 First, run `npm install` to install all dependencies.
